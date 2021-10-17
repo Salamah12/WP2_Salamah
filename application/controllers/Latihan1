@@ -1,0 +1,9 @@
+<?php
+class Latihan1 extends CI_Controller
+{
+	public function index ()
+	{
+		echo "<b><h2>Selamat Datang. . selamat belajar Wep Programming<h2><b>";
+	}
+
+}
